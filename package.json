@@ -17,9 +17,12 @@
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
-        "node-red-contrib-ui":"0.x"
+        "node-red-contrib-ui":"1.2.19",
+        "node-red-contrib-freeboard":"0.x",
+        "node-red-contrib-play-audio":"1.0.0"
+        
     },
     "engines": {
-        "node": "0.12.x"
+        "node": "4.4.5"
     }
 }
